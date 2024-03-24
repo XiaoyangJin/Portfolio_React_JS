@@ -8,6 +8,7 @@ const Navbar = () => {
         <nav className={styles.navbar}>
             <a className={styles.title} href='/'>Porfolio</a>
             <div className={styles.menu}>
+                <img className={styles.menuBtn} src={getImageUrl("nav/menuIcon.png")} alt="a humburger button which can toggle nav bar menu" />
                 <ul className={styles.menuItems}>
                     <li><a href='#about'>About</a></li>
                     <li><a href='#experience'>Experience</a></li>
