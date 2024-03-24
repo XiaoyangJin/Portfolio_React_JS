@@ -1,0 +1,41 @@
+@import "../../vars.css";
+
+.navbar {
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding-top: 1rem;
+    margin: 0 10%;
+
+    z-index: 2;
+}
+
+.title {
+    font-size: 1.7rem;
+    font-weight: 600;
+
+    text-decoration: none;
+
+    color: var(--color-text);
+}
+
+.menu {
+    display: flex;
+}
+
+.menuItems {
+    display: flex;
+
+    gap: 1rem;
+    list-style: none;
+}
+
+.menuItems a {
+    font-size: 1rem;
+
+    color: var(--color-text);
+    text-decoration: none;
+}
