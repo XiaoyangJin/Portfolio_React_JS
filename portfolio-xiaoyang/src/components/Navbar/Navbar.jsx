@@ -1,5 +1,7 @@
-import React from 'react'
-import styles from "./Navbar.module.css"
+import React, { useState } from 'react';
+
+import styles from "./Navbar.module.css";
+import { getImageUrl } from "../../utils";
 
 const Navbar = () => {
     return (
