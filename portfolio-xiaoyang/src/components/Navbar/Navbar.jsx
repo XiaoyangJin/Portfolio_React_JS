@@ -15,7 +15,8 @@ const Navbar = () => {
                     src={menuOpen ? getImageUrl("nav/closeIcon.png") : getImageUrl("nav/menuIcon.png")}
                     alt="a humburger button which can toggle nav bar menu"
                     onClick={() => setMenuOpen(!menuOpen)} />
-                <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}>
+                <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
+                    onClick={() => setMenuOpen(false)}>
                     <li><a href='#about'>About</a></li>
                     <li><a href='#experience'>Experience</a></li>
                     <li><a href='#projects'>Projects</a></li>
