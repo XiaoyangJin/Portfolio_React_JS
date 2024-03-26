@@ -1,19 +1,22 @@
-import React from 'react'
+import React from 'react';
+
+import styles from "./About.module.css";
 import { getImageUrl } from '../../utils';
 
 const About = () => {
     return (
-        <section>
-            <h2>About</h2>
-            <div>
+        <section className={styles.container}>
+            <h2 className={styles.title}>About</h2>
+            <div className={styles.content}>
                 <img
                     src={getImageUrl("about/aboutXY.png")}
-                    alt="Me sitting faced to a laptop using mobile phone to handle messages" />
+                    alt="Me sitting faced to a laptop using mobile phone to handle messages"
+                    className={styles.aboutImage} />
             </div>
-            <ul>
-                <li>
+            <ul className={styles.aboutItems}>
+                <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-                    <div>
+                    <div className={styles.aboutItemText}>
                         <h3>Website Developer</h3>
                         <p>As a Website Developer Intern at ChickTech (May-Sept 2023),
                             I revamped the registration page and event discovery,
@@ -22,9 +25,9 @@ const About = () => {
                             through GitHub collaboration.</p>
                     </div>
                 </li>
-                <li>
+                <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
-                    <div>
+                    <div className={styles.aboutItemText}>
                         <h3>ESG Data Analyst</h3>
                         <p>As an ESG Data Analyst Intern at China Chengxin International
                             Credit Rating (Oct 2020-Jan 2021), I improved data retrieval
@@ -34,9 +37,9 @@ const About = () => {
                             real-time analysis with a MongoDB database.</p>
                     </div>
                 </li>
-                <li>
-                    <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-                    <div>
+                <li className={styles.aboutItem}>
+                    <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+                    <div className={styles.aboutItemText}>
                         <h3>Software Developer</h3>
                         <p>As a Software Developer Intern at Yongyou Software Co., Ltd
                             (Aug-Sept 2019), I enhanced data integrity by analyzing 50k
