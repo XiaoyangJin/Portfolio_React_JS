@@ -106,3 +106,13 @@
     filter: blur(100px);
     z-index: 0;
 }
+
+@media (max-width: 830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+}
