@@ -8,10 +8,10 @@ const About = () => {
         <section className={styles.container}>
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
-                <img
+                {/* <img
                     src={getImageUrl("about/aboutImage.png")}
                     alt="Me sitting faced to a laptop using mobile phone to handle messages"
-                    className={styles.aboutImage} />
+                    className={styles.aboutImage} /> */}
 
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
