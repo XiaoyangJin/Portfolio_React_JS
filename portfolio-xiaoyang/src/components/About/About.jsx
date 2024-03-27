@@ -17,25 +17,28 @@ const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Website Developer</h3>
-                            <p>At ChickTech, I enhanced website usability and efficiency through
-                                frontend development and Agile methodologies.</p>
+                            <h3>Full-Stack Developer</h3>
+                            <p>I am a full-stack developer specialized in creating web applications,
+                                utilizing the Spring Framework for building RESTful APIs, Angular and
+                                TypeScript for the frontend, and PostgreSQL for database management.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>ESG Data Analyst</h3>
-                            <p>At China Chengxin, I streamlined ESG data analysis and management
-                                using advanced database technologies and web scraping.</p>
+                            <h3>Frontend Developer</h3>
+                            <p>I am a frontend developer with a focus on creating responsive
+                                and user-friendly websites, dedicated to ensuring optimal
+                                performance and engaging digital experiences.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Software Developer</h3>
-                            <p>At Yongyou Software, I improved software reliability and efficiency
-                                with targeted data analysis and process optimization.</p>
+                            <h3>Data Analyst</h3>
+                            <p>I have leveraged advanced data retrieval techniques and
+                                visualization tools to provide insightful industry analysis,
+                                and optimized software functionalities for improved efficiency.</p>
                         </div>
                     </li>
                 </ul>
