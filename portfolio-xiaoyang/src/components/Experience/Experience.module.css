@@ -83,3 +83,25 @@
     border-radius: 10px;
     padding: 1rem;
 }
+
+.historyItem img {
+    width: 4rem;
+}
+
+.historyItemDetails h3 {
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.historyItemDetails p {
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.historyItemDetails ul {
+    margin-top: 0.5rem;
+    list-style-position: inside;
+    font-size: 1.5rem;
+    list-style-type: disc;
+    margin-left: 1rem;
+}
