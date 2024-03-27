@@ -16,20 +16,8 @@
         "imageSrc": "skills/angular.png"
     },
     {
-        "title": "HTML",
-        "imageSrc": "skills/html.png"
-    },
-    {
-        "title": "CSS",
-        "imageSrc": "skills/css.png"
-    },
-    {
         "title": "JavaScript",
         "imageSrc": "skills/javascript.png"
-    },
-    {
-        "title": "Swift",
-        "imageSrc": "skills/swift.png"
     },
     {
         "title": "React",
@@ -44,32 +32,16 @@
         "imageSrc": "skills/rest-api.png"
     },
     {
-        "title": "Postman",
-        "imageSrc": "skills/postman.png"
-    },
-    {
-        "title": "Node",
+        "title": "Node.js",
         "imageSrc": "skills/nodejs.png"
-    },
-    {
-        "title": "Docker",
-        "imageSrc": "skills/docker.png"
     },
     {
         "title": "AWS",
         "imageSrc": "skills/aws.png"
     },
     {
-        "title": "SQL",
-        "imageSrc": "skills/sql.png"
-    },
-    {
         "title": "FireBase",
         "imageSrc": "skills/firebase.png"
-    },
-    {
-        "title": "MySQL",
-        "imageSrc": "skills/mysql.png"
     },
     {
         "title": "PostgreSQL",
@@ -80,24 +52,8 @@
         "imageSrc": "skills/mongodb.png"
     },
     {
-        "title": "DBeaver",
-        "imageSrc": "skills/dbeaver.png"
-    },
-    {
-        "title": "JSON",
-        "imageSrc": "skills/json.png"
-    },
-    {
         "title": "Git",
         "imageSrc": "skills/git.png"
-    },
-    {
-        "title": "GitHub",
-        "imageSrc": "skills/github.png"
-    },
-    {
-        "title": "Agile",
-        "imageSrc": "skills/agile.png"
     },
     {
         "title": "Azure",
@@ -106,9 +62,5 @@
     {
         "title": "WordPress",
         "imageSrc": "skills/wordpress.png"
-    },
-    {
-        "title": "SDLC",
-        "imageSrc": "skills/sdlc.png"
     }
 ]
