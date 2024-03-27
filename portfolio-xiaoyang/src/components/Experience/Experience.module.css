@@ -56,3 +56,8 @@
 .skillImageContainer img {
     width: 75px;
 }
+
+.skill p {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
