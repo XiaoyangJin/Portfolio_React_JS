@@ -61,3 +61,25 @@
     font-size: 1.5rem;
     font-weight: 500;
 }
+
+.history {
+    width: 45%;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 2rem;
+}
+
+.historyItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.8rem;
+
+    background-color: #BBC6C8;
+    background: linear-gradient(90deg, #BBC6C8 0%, rgba(25, 55, 109, 0) 100%);
+
+    border-radius: 10px;
+    padding: 1rem;
+}
