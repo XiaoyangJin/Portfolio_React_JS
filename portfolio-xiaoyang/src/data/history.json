@@ -1,35 +1,35 @@
 [
     {
+        "role": "Website Developer",
+        "organisation": "ChickTech",
+        "startDate": "May, 2023",
+        "endDate": "Sept, 2023",
+        "experiences": [
+            "Worked on Registration process and Event Calender page",
+            "Boosted user retention by 30%"
+        ],
+        "imageSrc": "history/chicktech-logo.png"
+    },
+    {
+        "role": "ESG Data Analyst",
+        "organisation": "China Chengxin Credit Management Co. Ltd.",
+        "startDate": "Oct, 2020",
+        "endDate": "Jan, 2021",
+        "experiences": [
+            "Developed a real estate database",
+            "Reduced query latency by 30%"
+        ],
+        "imageSrc": "history/zcx-logo.png"
+    },
+    {
         "role": "Software Engineer",
-        "organisation": "Google",
-        "startDate": "Sept, 2022",
-        "endDate": "Present",
+        "organisation": "yonyou Network Technology",
+        "startDate": "Aug, 2019",
+        "endDate": "Sept, 2019",
         "experiences": [
-            "Worked on Google Maps",
-            "Reduced load times by 50%"
+            "Worked on 50k salary data entries",
+            "Designed unit tests for enterprise software - UClient"
         ],
-        "imageSrc": "history/google.png"
-    },
-    {
-        "role": "UI Designer",
-        "organisation": "Mirosoft",
-        "startDate": "Aug, 2021",
-        "endDate": "Aug, 2022",
-        "experiences": [
-            "Worked on Windows 11",
-            "Designed the control panel"
-        ],
-        "imageSrc": "history/microsoft.png"
-    },
-    {
-        "role": "SWE Intern",
-        "organisation": "Netflix",
-        "startDate": "Apr, 2020",
-        "endDate": "Jun, 2020",
-        "experiences": [
-            "Worked on component library",
-            "Helped create UI components"
-        ],
-        "imageSrc": "history/netflix.png"
+        "imageSrc": "history/yy-logo.png"
     }
 ]
