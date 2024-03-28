@@ -5,8 +5,8 @@
     flex-direction: column;
 
     border-radius: 10px;
-    background: linear-gradient(180deg, #BBC6C8 0%, rgba(25, 55, 109, 0) 100%);
-    box-shadow: 0 16px 14px 0 #04152d;
+    background: linear-gradient(180deg, var(--color-light) 0%, rgba(25, 55, 109, 0) 100%);
+    box-shadow: 0 16px 14px 0 var(--color-dark);
 
     padding: 1rem 1.5rem;
     max-width: 25rem;

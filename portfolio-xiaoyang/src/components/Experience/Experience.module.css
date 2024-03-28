@@ -78,7 +78,7 @@
     gap: 0.8rem;
 
     background-color: #BBC6C8;
-    background: linear-gradient(90deg, #BBC6C8 0%, rgba(25, 55, 109, 0) 100%);
+    background: linear-gradient(90deg, var(--color-light) 0%, rgba(25, 55, 109, 0) 100%);
 
     border-radius: 10px;
     padding: 1rem;
