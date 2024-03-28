@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Study Sphere",
+        "imageSrc": "projects/StudySphere.png",
+        "description": "This is an app where students can post their study progress and view their friends' progress",
+        "skills": [
+            "Spring Boot",
+            "Swift",
+            "Angular",
+            "Restful APIs"
+        ],
+        "demo": "https://www.loom.com/share/ff18511590cb49dba6d4e7867ad7a67b",
+        "source": "https://github.com/XiaoyangJin/StudySphere_web_ios"
+    },
+    {
+        "title": "Covid-19 Vaccine Management System Development",
+        "imageSrc": "projects/Covid19.png",
+        "description": "This vaccine management system involves nations for vaccine requirements, WHO for reports and reviews, production companies for vaccine production, and logistics companies for vaccine delivery.",
+        "skills": [
+            "Java",
+            "MySQL",
+            "OOP"
+        ],
+        "demo": "https://xiaoyangs-planet.webflow.io/work/project-1",
+        "source": "https://github.com/XiaoyangJin/covid_19vaccine_distribution_final_program"
+    },
+    {
+        "title": "CoAID NLP Classification",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project to learn algorithms and different models about NLP classification.",
+        "skills": [
+            "Machine Learning",
+            "NLP",
+            "Python"
+        ],
+        "demo": "https://github.com/XiaoyangJin/XiaoyangJin-INFO6105/blob/main/INFO6105_Final_Project_NLP%20Classification_XiaoyangJin_001564764.ipynb",
+        "source": "https://github.com/XiaoyangJin/XiaoyangJin-INFO6105"
+    }
+]
