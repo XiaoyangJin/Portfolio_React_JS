@@ -40,27 +40,11 @@
         "imageSrc": "skills/aws.png"
     },
     {
-        "title": "FireBase",
-        "imageSrc": "skills/firebase.png"
-    },
-    {
-        "title": "PostgreSQL",
-        "imageSrc": "skills/postgresql.png"
-    },
-    {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
     },
     {
         "title": "Git",
         "imageSrc": "skills/git.png"
-    },
-    {
-        "title": "Azure",
-        "imageSrc": "skills/azure.png"
-    },
-    {
-        "title": "WordPress",
-        "imageSrc": "skills/wordpress.png"
     }
 ]
