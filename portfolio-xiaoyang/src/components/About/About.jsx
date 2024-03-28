@@ -15,7 +15,7 @@ const About = () => {
 
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+                        <img src={getImageUrl("about/computer.png")} alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Full-Stack Developer</h3>
                             <p>I am a full-stack developer specialized in creating web applications,
@@ -24,7 +24,7 @@ const About = () => {
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+                        <img src={getImageUrl("about/front-end.png")} alt="Image icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
                             <p>I am a frontend developer with a focus on creating responsive
@@ -33,7 +33,7 @@ const About = () => {
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+                        <img src={getImageUrl("about/data.png")} alt="UI icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Data Analyst</h3>
                             <p>I have leveraged advanced data retrieval techniques and
