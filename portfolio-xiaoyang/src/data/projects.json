@@ -26,7 +26,7 @@
     },
     {
         "title": "CoAID NLP Classification",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/NLP.png",
         "description": "This is a project to learn algorithms and different models about NLP classification.",
         "skills": [
             "Machine Learning",
