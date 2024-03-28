@@ -28,3 +28,28 @@
 
     letter-spacing: 0.05rem;
 }
+
+.links {
+    display: flex;
+
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 1rem;
+}
+
+.link {
+    display: flex;
+
+    align-items: center;
+    gap: 1rem;
+}
+
+.link a {
+    color: var(--color-text);
+    text-decoration: underline;
+
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: 0.01rem;
+}
