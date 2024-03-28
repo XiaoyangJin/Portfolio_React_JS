@@ -15,7 +15,7 @@
     {
         "title": "Covid-19 Vaccine Management System Development",
         "imageSrc": "projects/Covid19.png",
-        "description": "This vaccine management system involves nations for vaccine requirements, WHO for reports and reviews, production companies for vaccine production, and logistics companies for vaccine delivery.",
+        "description": "This is a management system which allows 8 different kinds of users to collaborate in the whole process of vaccine destribution.",
         "skills": [
             "Java",
             "MySQL",
