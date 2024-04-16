@@ -41,6 +41,16 @@ const About = () => {
                                 and optimized software functionalities for improved efficiency.</p>
                         </div>
                     </li>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/robot.png")} alt="UI icon" />
+                        <div className={styles.aboutItemText}>
+                            <h3>Machine Learning Engineer</h3>
+                            <p>I have completed many machine learning projects, employing advanced
+                                algorithms and data analysis techniques to enhance project outcomes
+                                and effectively applying machine learning tools across various practical
+                                applications.</p>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </section>
