@@ -6,4 +6,7 @@ Welcome to my personal portfolio website, built with React and JavaScript.
 
 1. **Clone or Download the Repository:**
 ```sh
-   git clone [repository URL]
+   git clone https://github.com/XiaoyangJin/Portfolio_React_JS.git
+Or download the ZIP file from GitHub and extract it.
+
+2. **Navigate to the Project Directory:**
