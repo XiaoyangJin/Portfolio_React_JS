@@ -1,35 +1,46 @@
 [
     {
-        "role": "Website Developer",
-        "organisation": "ChickTech",
+        "role": "Software Engineer",
+        "organisation": "Forecastr",
         "startDate": "May, 2023",
-        "endDate": "Sept, 2023",
+        "endDate": "Present",
         "experiences": [
-            "Worked on Registration process and Event Calender page",
-            "Boosted user retention by 30%"
+            "Developed and Deployed Financial Tools",
+            "Optimized System Performance and Predictive Analytics"
         ],
-        "imageSrc": "history/chicktech-logo.png"
-    },
-    {
-        "role": "ESG Data Analyst",
-        "organisation": "China Chengxin Credit Management Co. Ltd.",
-        "startDate": "Oct, 2020",
-        "endDate": "Jan, 2021",
-        "experiences": [
-            "Developed a real estate database",
-            "Reduced query latency by 30%"
-        ],
-        "imageSrc": "history/zcx-logo.png"
+        "imageSrc": "history/Forecastr.webp"
     },
     {
         "role": "Software Engineer",
-        "organisation": "yonyou Network Technology",
-        "startDate": "Aug, 2019",
-        "endDate": "Sept, 2019",
+        "organisation": "Mulberry System Inc",
+        "startDate": "Feb, 2022",
+        "endDate": "May, 2023",
         "experiences": [
-            "Worked on 50k salary data entries",
-            "Designed unit tests for enterprise software - UClient"
+            "Developed Patient Workflow Management Tool",
+            "Optimized Data Processing and Predictive Analytics"
         ],
-        "imageSrc": "history/yy-logo.png"
+        "imageSrc": "history/Mulberry.png"
+    },
+    {
+        "role": "Software Engineer",
+        "organisation": "Hebei Talent Search Network",
+        "startDate": "July, 2019",
+        "endDate": "July, 2021",
+        "experiences": [
+            "Developed Comprehensive Job Portal",
+            "Optimized Recruitment Process with Advanced Techniques"
+        ],
+        "imageSrc": "history/Socai.png"
+    },
+    {
+        "role": "Software Engineer",
+        "organisation": "CITIC",
+        "startDate": "June, 2017",
+        "endDate": "June, 2019",
+        "experiences": [
+            "Developed Robust Investment Management Application",
+            "Enhanced Data Security and Financial Analysis"
+        ],
+        "imageSrc": "history/CITIC.png"
     }
 ]
