@@ -13,18 +13,6 @@
         "source": "https://github.com/XiaoyangJin/StudySphere_web_ios"
     },
     {
-        "title": "Covid-19 Vaccine Management System Development",
-        "imageSrc": "projects/Covid19.png",
-        "description": "This is a management system which allows 8 different kinds of users to collaborate in the whole process of vaccine destribution.",
-        "skills": [
-            "Java",
-            "MySQL",
-            "OOP"
-        ],
-        "demo": "https://xiaoyangs-planet.webflow.io/work/project-1",
-        "source": "https://github.com/XiaoyangJin/covid_19vaccine_distribution_final_program"
-    },
-    {
         "title": "CoAID NLP Classification",
         "imageSrc": "projects/NLP.png",
         "description": "This is a project to learn algorithms and different models about NLP classification.",
